@@ -5,7 +5,7 @@ import sqlite3
 '''USER CONFIGURATION'''
 
 USERNAME  = "Shibe-Bot"
-PASSWORD  = "robin1"
+PASSWORD  = "******"
 USERAGENT = "PixelShibe's Giveaway bot!"
 SUBREDDIT = "Dogecoin"
 TITLESTRING = ["Giveaway"]
